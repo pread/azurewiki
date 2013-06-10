@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://pread.azurewebsites.net//sitemap.xml 
